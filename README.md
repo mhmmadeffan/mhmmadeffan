@@ -5,7 +5,7 @@
 
  ## 💬 Chat with us on Discord:
 <a href="https://discord.com/invite/SNmn6KAsAM" style="margin: 10px;">
- <img src="https://discord.com/api/guilds/870604052281573406/widget.png?style=banner4" alt="Discord Banner" />
+ <img src="https://discord.com/api/guilds/1013663746608087040/widget.png?style=banner4" alt="Discord Banner" />
 </a> 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
