@@ -4,7 +4,7 @@
 
 
  ## 💬 Chat with us on Discord:
-https://dsc.gg/fanking
+[My Discord Server](https://discord.com/invite/3GJzpAwkFZ)
 
 ## 🥇 Technical Skills:
 [![My Skills](https://skillicons.dev/icons?i=cpp,python,javascript,html,css,ubuntu,discordjs,vscode,figma)](https://skillicons.dev)
