@@ -7,7 +7,7 @@
 [My Discord Server](https://discord.com/invite/3GJzpAwkFZ)
 
 ## 🥇 Technical Skills:
-[![My Skills](https://skillicons.dev/icons?i=cpp,python,javascript,html,css,ubuntu,discordjs,vscode,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,javascript,html,css,ubuntu,discordjs,vscode,figma)](https://skillicons.dev)
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📊 Statistics  
