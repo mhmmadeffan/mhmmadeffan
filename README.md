@@ -23,8 +23,7 @@
 ## 🏆 GitHub Trophies
 <!-- MY GITHUB PROFILE TROPHIES -->
 <p align="left" style="vertical-align:top; margin:4px;">
-    <a href="https://github.com/ryo-ma/github-profile-trophy" style="margin: 10px;">
-        <img src="https://github-profile-trophy.vercel.app/?username=mhmmadeffan&theme=onedark" />
+    [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
     </a> 
 </p>
 
