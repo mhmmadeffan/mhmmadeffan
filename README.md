@@ -20,13 +20,6 @@
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mhmmadeffan&theme=github_dark" style="height: 300px"/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🏆 GitHub Trophies
-<!-- MY GITHUB PROFILE TROPHIES -->
-<p align="left" style="vertical-align:top; margin:4px;">
-    [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-    </a> 
-</p>
-
 <!-- <h2 align="left">⚡Activity Graph:</h2>
   <a><img alt="JVC's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=jvc-byte&theme=react-dark&hide_border=true" /></a> -->  
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
